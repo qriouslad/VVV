@@ -18,7 +18,7 @@ sites:
   # site in www/example-site/ available at http://my-example-site.dev.
 
   test-site:
-    repo: https://github.com/Varying-Vagrant-Vagrants/custom-site-template.git
+    repo: https://github.com/qriouslad/custom-site-template.git
     hosts:
       - tests.dev
 
